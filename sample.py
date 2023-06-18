@@ -1,5 +1,6 @@
 a= 4
 b= 6
-sum= a+b
+c= 8
+sum= a+b+c
 
-print "sum of the two numbers is" sum
+print "sum of the three numbers is" sum
